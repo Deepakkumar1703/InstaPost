@@ -1,0 +1,32 @@
+.main-nav{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(223, 222, 222);
+    padding: 0 60px;
+    padding-top: 2px;
+    padding-bottom: 4px;
+    border-bottom: 1px solid gray
+}
+
+.logo .l{
+    text-decoration: none;
+    
+}
+
+.postlink .l{
+    text-decoration: none;
+    color: black;
+    font-size: 22px;
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: rgb(95, 95, 95);
+    padding:  2px 16px;
+    border-radius: 5px;
+    color: honeydew;
+}
+.postlink{
+    margin-top: 15px;
+}
+
+.postlink .l:hover{
+    background-color: rgb(141, 140, 140);
+}

@@ -1,0 +1,24 @@
+.post-form-main{
+    margin: 20px auto;
+    width: 300px;
+    text-align: center;
+}
+
+.input{
+    width: 250px;
+    padding: 5px;
+    border-radius: 5px;
+    border-color: rgb(121, 121, 129);
+}
+
+.sharebtn{
+    width: 250px;
+    padding: 5px;
+    background-color: rgb(169, 169, 172);
+    border-radius: 5px;
+}
+
+.sharebtn:hover{
+    background-color: rgb(197, 195, 195);
+    cursor: pointer;
+}
